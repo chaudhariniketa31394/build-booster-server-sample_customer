@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/build-booster-server-sample_catlog.iml" filepath="$PROJECT_DIR$/.idea/build-booster-server-sample_catlog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Customer/catalog.iml" filepath="$PROJECT_DIR$/Customer/catalog.iml" />
+    </modules>
+  </component>
+</project>
